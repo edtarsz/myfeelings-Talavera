@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFeelings</string>
+    <string name="cirulo_de_colores">Cirulo de colores</string>
+    <string name="mensaje_main">¿Cómo te sientes el día de hoy?</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="muy_feliz">Muy Feliz</string>
+    <string name="feliz">Feliz</string>
+    <string name="neutral">Neutral</string>
+    <string name="sad">Sad</string>
+    <string name="very_sad">Very Sad</string>
+</resources>
